@@ -26,8 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0day-uzi&show_icons=true&locale=en" alt="0day-uzi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0day-uzi&" alt="0day-uzi" /></p>
-
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@Uziiii/30-nites-of-code)  
   ![@Uziiii #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Uziiii)
