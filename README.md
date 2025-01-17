@@ -29,3 +29,5 @@
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@Uziiii/30-nites-of-code)  
   ![@Uziiii #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Uziiii)
+
+[![roadmap.sh](https://roadmap.sh/card/wide/6789f81498c00f7117b260fb?variant=dark)](https://roadmap.sh)
