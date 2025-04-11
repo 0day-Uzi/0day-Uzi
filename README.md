@@ -30,6 +30,9 @@
   [Check out my progress!](https://www.codedex.io/@Uziiii/30-nites-of-code)  
   ![@Uziiii #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Uziiii)
 
+## #RoadMap.sh
 [![roadmap.sh](https://roadmap.sh/card/wide/6789f81498c00f7117b260fb?variant=dark)](https://roadmap.sh)
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4013147" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/AbitLost.png" alt="Your Image Badge" />
+
+
