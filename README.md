@@ -10,8 +10,8 @@
 ### 🎓 Education & Background
 - 🎓 **BSc (Hons) in Computing** – First-year undergraduate (Common first year)
 - 💼 **Specialization Goal:** Cybersecurity major (Year 2 onwards)
-- 📍 **Focus Areas:** Networking, Web Development, Software Development, Cybersecurity
-- 🎯 **Career Goal:** Become a skilled **penetration tester** and advocate for **digital privacy**
+- 📍 **Focus Areas:** Networking, Web Development, Cybersecurity, Pen Testing 
+- 🎯 **Career Goal:** Become a skilled and Valuable **penetration tester** and advocate for **digital privacy**
 
 ---
 
@@ -62,6 +62,6 @@
 ---
 
 ### 🧠 Fun Facts
-- ⚡ I’m driven by a mix of curiosity, ambition, and caffeine
-- 🧭 Planning everything: from studies to skills to success
+- ⚡ I’m driven by a mix of curiosity, ambition, and Cahi
+- 🧭 Planning everything: from studies to skills to success and A geek In Self Improvement
 - 💻 Always hacking my growth – in tech and life
