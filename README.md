@@ -62,6 +62,7 @@
 ---
 
 ### 🧠 Fun Facts
-- ⚡ I’m driven by a mix of curiosity, ambition, and Cahi
+- ⚡ I’m driven by a mix of curiosity, ambition, and Chai
 - 🧭 Planning everything: from studies to skills to success and A geek In Self Improvement
 - 💻 Always hacking my growth – in tech and life
+- 🔥 Self improvement Geek (Hollistic apporach)
