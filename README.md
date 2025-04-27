@@ -27,7 +27,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/uzman-badurdeen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="https://www.hackerrank.com/uzmanbad" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&style=for-the-badge" /></a>
-  <a href="https://www.leetcode.com/babycoder_28" target="_blank"><img src="https://img.shields.io/badge/LeetCode-yellow?logo=leetcode&style=for-the-badge" /></a>
+  <a href="https://leetcode.com/u/AbitLost/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-yellow?logo=leetcode&style=for-the-badge" /></a>
 </p>
 
 ---
