@@ -37,31 +37,10 @@
 </p>
 
 ---
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0day-uzi&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0day-uzi&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
 ---
 
 ### 🔥 Ongoing Projects & Progress
 
-#### #30NitesOfCode
-[Check out my progress](https://www.codedex.io/@Uziiii/30-nites-of-code)  
-<img src="https://www.codedex.io/api/petStatus?user=Uziiii" alt="Codedex badge" />
-
-#### 📚 Roadmap.sh
-[![roadmap.sh](https://roadmap.sh/card/wide/6789f81498c00f7117b260fb?variant=dark)](https://roadmap.sh)
-
 #### 🧠 TryHackMe Progress
 <img src="https://tryhackme-badges.s3.amazonaws.com/AbitLost.png" alt="TryHackMe badge" />
 
----
-
-### 🧠 Fun Facts
-- ⚡ I’m driven by a mix of curiosity, ambition, and Chai
-- 🧭 Planning everything: from studies to skills to success and A geek In Self Improvement
-- 💻 Always hacking my growth – in tech and life
-- 🔥 Self improvement Geek (Hollistic apporach)
