@@ -41,6 +41,5 @@
 
 ### 🔥 Ongoing Projects & Progress
 
-#### 🧠 TryHackMe Progress
-<img src="https://tryhackme-badges.s3.amazonaws.com/AbitLost.png" alt="TryHackMe badge" />
+
 
