@@ -41,4 +41,6 @@
 
 ### 🔥 Ongoing Projects & Progress
   **CURRENTLY NONE**
-  Lazy cat relaxing](https://media1.tenor.com/m/tcV9X7U9WagAAAAd/cat-rest-lazy-laying-bed.gif)
+  ![cat-rest-lazy-laying-bed](https://github.com/user-attachments/assets/dc9933ba-66b9-4aeb-9c87-68a59b731ec3)
+
+  
