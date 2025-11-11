@@ -41,5 +41,4 @@
 
 ### 🔥 Ongoing Projects & Progress
   **CURRENTLY NONE**
-  ![Lazy cat relaxing](<div class="tenor-gif-embed" data-postid="20013578" data-share-method="host" data-aspect-ratio="1.12281" data-width="100%"><a href="https://tenor.com/view/cat-rest-lazy-laying-bed-gif-20013578">Cat Rest Lazy Laying Bed GIF</a>from <a href="https://tenor.com/search/cat+rest+lazy+laying+bed-gifs">Cat Rest Lazy Laying Bed GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
-
+  Lazy cat relaxing](https://media1.tenor.com/m/tcV9X7U9WagAAAAd/cat-rest-lazy-laying-bed.gif)
