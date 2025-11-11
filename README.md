@@ -8,18 +8,18 @@
 ---
 
 ### 🎓 Education & Background
-- 🎓 **BSc (Hons) in Computing** – First-year undergraduate (Common first year)
-- 💼 **Specialization Goal:** Cybersecurity major (Year 2 onwards)
+- 🎓 **BSc (Hons) in Cyber-Security** – Second Year undergraduate 
+- 💼 **Specialization Goal:** Cybersecurity major 
 - 📍 **Focus Areas:** Networking, Web Development, Cybersecurity, Pen Testing 
-- 🎯 **Career Goal:** Become a skilled and Valuable **penetration tester** and advocate for **digital privacy**
+- 🎯 **Career Goal:** Become a skilled and Valuable **penetration tester** and advocate for **digital privacy** & **More**
 
 ---
 
 ### 🔧 Currently Learning
-- 🕸️ **Web technologies** – HTML, CSS, JavaScript
-- 🧠 **Networking concepts** – Protocols, subnetting, fundamentals
-- 🖥️ **Linux (Kali)** – Your daily driver into ethical hacking
-- 🧩 **Software design** – Logic building & structure
+- 🕸️ **Web technologies** – ( HTML, CSS, JavaScript )<--->(**Currently-Paused**), PHP
+- 🧠 **Networking concepts** – Protocols, subnetting, Security
+- 🖥️ **Linux (Kali)** – Basics **-->** Intermidiate
+- 🚀 **Try Hack Me** - Rising Through Pre-security and more 
 
 ---
 
@@ -40,6 +40,6 @@
 ---
 
 ### 🔥 Ongoing Projects & Progress
-
-
+  **CURRENTLY NONE**
+  ![Lazy cat relaxing](https://tenor.com/bv8BO.gif)
 
