@@ -28,7 +28,7 @@
 <p align="left">
   <!-- Enterprise Security Tooling -->
   <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Sentinel" />
-  <img src="https://img.shields.io/badge/CrowdStrike-FF0000?style=for-the-badge&logo=crowdstrike&logoColor=white" alt="Crowdstrike" />
+  <img src="https://img.shields.io/badge/CrowdStrike-FF0000?style=for-the-badge&logoColor=white" alt="Crowdstrike" />
 </p>
 
 ### 📡 Secure Channels
@@ -55,10 +55,23 @@
 *Live feed of my current development and research activity.*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0day-Uzi&show_icons=true&hide_border=true&title_color=00d4ff&text_color=8b949e&icon_color=ff006e&bg_color=0d1117" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0day-Uzi&hide_border=true&title_color=00d4ff&text_color=8b949e&icon_color=ff006e&bg_color=0d1117&sideNums=00d4ff&sideLabels=8b949e&ring=ff006e&fire=ff006e&currStreakLabel=00d4ff" height="165" alt="GitHub Streak" />
+  <a href="https://github.com/0day-Uzi">
+    <img src="https://github-readme-stats.vercel.app/api?username=0day-Uzi&show_icons=true&hide_border=true&title_color=00d4ff&text_color=8b949e&icon_color=ff006e&bg_color=0d1117" alt="GitHub Stats" />
+  </a>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0day-Uzi&layout=compact&hide_border=true&title_color=00d4ff&text_color=8b949e&bg_color=0d1117" alt="Top Languages" />
+  <a href="https://github.com/0day-Uzi">
+    <img src="https://streak-stats.demolab.com/?user=0day-Uzi&hide_border=true&title_color=00d4ff&text_color=8b949e&icon_color=ff006e&bg_color=0d1117&sideNums=00d4ff&sideLabels=8b949e&ring=ff006e&fire=ff006e&currStreakLabel=00d4ff" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/0day-Uzi">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0day-Uzi&layout=compact&hide_border=true&title_color=00d4ff&text_color=8b949e&bg_color=0d1117" alt="Top Languages" />
+  </a>
 </div>
