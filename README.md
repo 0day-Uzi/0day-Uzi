@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Custom Background Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&text=Uzman%20Badurdeen&fontColor=00d4ff&fontSize=45&desc=Penetration%20Tester%20%7C%20Offensive%20Security&descColor=c9d1d9&descSize=16&stroke=00d4ff&strokeWidth=1" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&text=Uzman%20Badurdeen&fontColor=00d4ff&fontSize=50&stroke=00d4ff&strokeWidth=1" alt="Banner" />
 
 <br/><br/>
 
@@ -25,10 +25,12 @@
   <!-- Standard Tech Stack -->
   <img src="https://skillicons.dev/icons?i=linux,bash,python,js,php,html,css,github,vscode" alt="Tech Stack" />
 </p>
-<p align="left">
-  <!-- Enterprise Security Tooling -->
-  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Sentinel" />
-  <img src="https://img.shields.io/badge/CrowdStrike-FF0000?style=for-the-badge&logoColor=white" alt="Crowdstrike" />
+<p align="left" style="display: flex; align-items: center; gap: 10px;">
+  <!-- MS SENTINEL IMAGE -->
+  <img src="https://github.com/user-attachments/assets/7e01ab5a-10b0-4271-8d34-362da8364ea8" height="28" alt="Sentinel" style="border-radius: 4px;" />
+  
+  <!-- CROWDSTRIKE IMAGE -->
+  <img src="https://github.com/user-attachments/assets/8c5aaec3-f711-4007-b091-d14da03af60f" height="28" alt="CrowdStrike" style="border-radius: 4px;" />
 </p>
 
 ### 📡 Secure Channels
@@ -56,7 +58,7 @@
 
 <div align="center">
   <a href="https://github.com/0day-Uzi">
-    <img src="https://github-readme-stats.vercel.app/api?username=0day-Uzi&show_icons=true&hide_border=true&title_color=00d4ff&text_color=8b949e&icon_color=ff006e&bg_color=0d1117" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=0day-Uzi&show_icons=true&hide_border=true&title_color=00d4ff&text_color=8b949e&icon_color=ff006e&bg_color=0d1117&disable_animations=true" alt="GitHub Stats" />
   </a>
 </div>
 
@@ -65,13 +67,5 @@
 <div align="center">
   <a href="https://github.com/0day-Uzi">
     <img src="https://streak-stats.demolab.com/?user=0day-Uzi&hide_border=true&title_color=00d4ff&text_color=8b949e&icon_color=ff006e&bg_color=0d1117&sideNums=00d4ff&sideLabels=8b949e&ring=ff006e&fire=ff006e&currStreakLabel=00d4ff" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/0day-Uzi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0day-Uzi&layout=compact&hide_border=true&title_color=00d4ff&text_color=8b949e&bg_color=0d1117" alt="Top Languages" />
   </a>
 </div>
